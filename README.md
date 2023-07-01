@@ -2,7 +2,7 @@
 
 - 🇧🇷  - I'm a front-end developer from Brazil.
 - 🌎  - I do speak english and portuguese.
-- 📚  - System Analysis and Development at Institute of Higher Education of Brasilia(IESB).
+- 📚  - Gratuated in System Analysis and Development at Institute of Higher Education of Brasilia(IESB).
 - 🚀  - Trying to get better everyday.
 
 ---
