@@ -1,6 +1,6 @@
 <h1 align="center">Hello Everyone! 🙋 <br/ > I'm Rian! </h1>
 
-- ![Brazil](https://raw.githubusercontent.com/stevenrskelton/flag-icon/master/png/16/country-4x3/br.png "Brazil")  - I'm a front-end developer from Brazil.
+-  ![Brazil](https://raw.githubusercontent.com/stevenrskelton/flag-icon/master/png/16/country-4x3/br.png "Brazil")  - I'm a front-end developer from Brazil.
 - 🌎  - I do speak english and portuguese.
 - 📚  - Gratuated in System Analysis and Development at Institute of Higher Education of Brasilia(IESB).
 - 🚀  - Trying to get better everyday.
