@@ -8,16 +8,15 @@
 ---
 
 - 🖥   - Writing code since 2020.
-- ⚛️   - Working with Full Stack Development since 2021.
+- ⚛️   - Working as a Front End Developer since 2021.
 
 <br />
 
 ## Some Relevant Skills
 - HTML, CSS, JavaScript;
 - Typescript;
-- ReactJS
-- NextJs;
-- VueJS; 
+- ReactJS, NextJs;
+- VueJS, NuxtJS; 
 - SASS, Tailwind, Styled Components;
 - Node.js, Express;
 - PHP, Laravel
