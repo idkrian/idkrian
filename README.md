@@ -1,16 +1,17 @@
-<h1 align="center">Hello Everyone! 🙋 <br/ > I'm Rian! </h1>
+## Hello World, I'm <strong>Rian</strong>!
 
--  ![Brazil](https://raw.githubusercontent.com/stevenrskelton/flag-icon/master/png/16/country-4x3/br.png "Brazil")  - I'm a front-end developer from Brazil.
-- 🌎  - I do speak english and portuguese.
-- 📚  - Gratuated in System Analysis and Development at Institute of Higher Education of Brasilia(IESB).
-- 🚀  - Trying to get better everyday.
+<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="ilustração de um computador" min-width="400px" max-width="400px" width="400px" align="right">
 
+<p align="left"> 
+
+- 💫   - I'm a front-end developer from Brazil.
+- 🌎   - I do speak english and portuguese.
+- 📚   - Gratuated in System Analysis and Development at Institute of Higher Education of Brasilia(IESB).
+- 🚀   - Trying to get better everyday.
 ---
 
 - 🖥   - Writing code since 2020.
 - ⚛️   - Working as a Front End Developer since 2021.
-
-<br />
 
 ## Some Relevant Skills
 - HTML, CSS, JavaScript;
@@ -20,16 +21,43 @@
 - SASS, Tailwind, Styled Components;
 - Node.js, Express;
 - React Native, Expo;
-  
-## Coding Activity
-<div display="flex">
-  <a href="https://github.com/idkrian">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=idkrian&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=idkrian&layout=compact&langs_count=7&theme=dark"/>
-  </a>
-</div>
 
-## Getting in touch
-<p align = "center">
-  <a href = "mailto:riansouza0@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/riansouza/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+---
+<p align="center"> 
+<a href="https://www.linkedin.com/in/idkrian/" title="LinkedIn" target="_blank">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+<img src="https://img.shields.io/badge/Email-232326?style=for-the-badge&logo=Gmail" alt="Gmail"/></a>
+
+<br>
+<br>
+
+<p align="center"> 
+<table>
+  <tr>
+    <td>
+      <img
+        align="left"
+        src="https://github-readme-stats.vercel.app/api?username=idkrian&theme=dark&hide_border=false&include_all_commits=true&count_private=true"
+        alt="Github stats"
+      />
+    </td>
+    <td>
+      <img
+        align="left"
+        src="https://github-readme-stats.vercel.app/api/top-langs/?username=idkrian&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact"
+        alt="Github stats"
+      />
+    </td>
+    <td>
+      <br />
+      <p align="center"> 
+      <img
+        src="https://github-readme-streak-stats.herokuapp.com/?user=idkrian&theme=dark&hide_border=false"
+        alt="Github stats"
+      />
+    </td>
+  </tr>
+</table>
+</p>
+
+
