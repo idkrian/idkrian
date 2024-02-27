@@ -32,32 +32,19 @@
 <br>
 
 <p align="center"> 
-<table>
-  <tr>
-    <td>
       <img
-        align="left"
-        src="https://github-readme-stats.vercel.app/api?username=idkrian&theme=dark&hide_border=false&include_all_commits=true&count_private=true"
-        alt="Github stats"
-      />
-    </td>
-    <td>
-      <img
-        align="left"
         src="https://github-readme-stats.vercel.app/api/top-langs/?username=idkrian&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact"
+         align="left"
         alt="Github stats"
       />
-    </td>
-    <td>
-      <br />
-      <p align="center"> 
+</p>
+<p align="center"> 
       <img
         src="https://github-readme-streak-stats.herokuapp.com/?user=idkrian&theme=dark&hide_border=false"
+         align="right"
         alt="Github stats"
       />
-    </td>
-  </tr>
-</table>
 </p>
+
 
 
