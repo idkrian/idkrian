@@ -4,14 +4,14 @@
 
 <p align="left"> 
 
-- 💫   - I'm a front-end developer from Brazil.
+- 💫   - I'm a full-stack developer from Brazil.
 - 🌎   - I do speak english and portuguese.
 - 📚   - Gratuated in System Analysis and Development at Institute of Higher Education of Brasilia(IESB).
 - 🚀   - Trying to get better everyday.
 ---
 
 - 🖥   - Writing code since 2020.
-- ⚛️   - Working as a Front End Developer since 2021.
+- ⚛️   - Working as a Full Stack Developer since 2021.
 
 ## Some Relevant Skills
 - HTML, CSS, JavaScript;
